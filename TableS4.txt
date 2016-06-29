@@ -1,0 +1,102 @@
+PF00344	SecY translocase
+PF00004	ATPase family associated with various cellular activities (AAA)
+PF00814	Glycoprotease family
+PF04563	RNA polymerase beta subunit
+PF04997	RNA polymerase Rpb1 domain 1
+PF00623	RNA polymerase Rpb1 domain 2
+PF04983	RNA polymerase Rpb1 domain 3
+PF04998	RNA polymerase Rpb1 domain 5
+PF04565	RNA polymerase Rpb2 domain 3
+PF00562	RNA polymerase Rpb2 domain 6
+PF04560	RNA polymerase Rpb2 domain 7
+PF01193	RNA polymerase Rpb3/Rpb11 dimerisation domain
+PF01000	RNA polymerase Rpb3/RpoA insert domain
+PF01926	50S ribosome-binding GTPase
+PF03129	Anticodon binding domain
+PF08264	Anticodon-binding domain of tRNA
+PF00679	Elongation factor G C-terminus
+PF03764	Elongation factor G domain IV
+PF03144	Elongation factor Tu domain 2
+PF00009	Elongation factor Tu GTP binding domain
+PF01336	OB-fold nucleic acid binding domain
+PF00673	Ribosomal L5P family C-terminus
+PF00466	Ribosomal protein L10
+PF00572	Ribosomal protein L13
+PF00252	Ribosomal protein L16p/L10e
+PF00828	Ribosomal protein L18e/L15
+PF00687	Ribosomal protein L1p/L10e family
+PF00237	Ribosomal protein L22p/L17e
+PF00276	Ribosomal protein L23
+PF00297	Ribosomal protein L3
+PF00573	Ribosomal protein L4/L1 family
+PF00281	Ribosomal protein L5
+PF00338	Ribosomal protein S10p/S20e
+PF00411	Ribosomal protein S11
+PF00164	Ribosomal protein S12
+PF00416	Ribosomal protein S13/S18
+PF00312	Ribosomal protein S15
+PF00366	Ribosomal protein S17
+PF00203	Ribosomal protein S19
+PF00318	Ribosomal protein S2
+PF00189	Ribosomal protein S3 C-terminal domain
+PF03719	Ribosomal protein S5 C-terminal domain
+PF00177	Ribosomal protein S7p/S5e
+PF00410	Ribosomal protein S8
+PF00380	Ribosomal protein S9/S16
+PF03947	Ribosomal Proteins L2 C-terminal domain
+PF00181	Ribosomal Proteins L2 RNA binding domain
+PF01479	S4 domain
+PF01176	Translation initiation factor 1A / IF-1
+PF11987	Translation-initiation factor 2
+PF00587	tRNA synthetase class II core domain (G H P S and T)
+PF00133	tRNA synthetases class I (I L M and V)
+PF00579	tRNA synthetases class I (W and Y)
+PF00152	tRNA synthetases class II (D K and N)
+PF01409	tRNA synthetases class II core domain (F)
+PF00005	ABC transporter
+PF00266	Aminotransferase class-V
+PF00557	Metallopeptidase family M24
+PF07992	Pyridine nucleotide-disulphide oxidoreductase
+PF00070	Pyridine nucleotide-disulphide oxidoreductase
+PF00696	Amino acid kinase family
+PF05746	DALR anticodon binding domain
+PF00271	Helicase conserved C-terminal domain
+PF13393	Histidyl-tRNA synthetase
+PF00861	Ribosomal L18p/L5e family
+PF00831	Ribosomal L29 protein
+PF00298	Ribosomal protein L11 RNA binding domain
+PF00238	Ribosomal protein L14p/L23e
+PF00347	Ribosomal protein L6
+PF00333	Ribosomal protein S5 N-terminal domain
+PF01751	Toprim domain
+PF00749	tRNA synthetases class I (E and Q) catalytic domain
+PF09334	tRNA synthetases class I (M)
+PF00750	tRNA synthetases class I (R)
+PF01411	tRNA synthetases class II (A)
+PF03143	Elongation factor Tu C-terminal domain
+PF01026	TatD related DNase
+PF07973	Threonyl and Alanyl tRNA synthetase second additional domain
+PF03484	tRNA synthetase B5 domain
+PF00006	ATP synthase alpha/beta family nucleotide-binding domain
+PF00398	Ribosomal RNA adenine dimethylase
+PF07650	KH domain
+PF00571	CBS domain
+PF01300	Telomere recombination
+PF00575	S1 RNA binding domain
+PF02874	ATP synthase alpha/beta family beta-barrel domain
+PF00137	ATP synthase subunit C
+PF00448	SRP54-type protein GTPase domain
+PF01171	PP-loop family
+PF00306	ATP synthase alpha/beta chain C terminal domain
+PF13662	Toprim domain
+PF02272	DHHA1 domain
+PF01131	DNA topoisomerase
+PF03946	Ribosomal protein L11 N-terminal domain
+PF00117	Glutamine amidotransferase class-I
+PF00253	Ribosomal protein S14p/S29e
+PF02518	Histidine kinase- DNA gyrase B- and HSP90-like ATPase
+PF01588	Putative tRNA binding domain
+PF02978	Signal peptide binding domain
+PF01406	tRNA synthetases class I (C) catalytic domain
+PF02811	PHP domain
+PF02881	SRP54-type protein helical bundle domain
